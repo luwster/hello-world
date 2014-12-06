@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-some repository
+some repository, with some new comments inside.
